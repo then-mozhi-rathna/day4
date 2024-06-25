@@ -1,0 +1,33 @@
+let myResume={
+    "name":"Thenmozhi Rathna.J",
+    "email":"thenmozhirathna795@gmail.com",
+    "phone":7411544253,
+    "degree":"MBA",
+    "location":{
+        "street":"emi street",
+        "place":"vedasandur",
+        "district":"dindigul",
+        "pincode":624710
+    }
+    "education":{
+        "institute name":"periyar university",
+        "department":"MBA",
+        "Year of passing":2022-2023,
+    }
+    "skills":{
+        "good communication",
+        "problem solving,"
+        "decision making",
+        "time management"
+    }
+    "language":{
+        "tamil",
+        "english",
+    }
+"interest":{
+    "silambam player and good dancer"
+}
+
+
+}
+console.log(myResume);
